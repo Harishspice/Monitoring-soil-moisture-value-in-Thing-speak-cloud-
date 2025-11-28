@@ -96,7 +96,7 @@ const char ssid[] = "*";
 const char pass[] = "*";
 int keyIndex = 0;
 WiFiClient  client;
-unsigned long myChannelNumber =  3115128;
+unsigned long myChannelNumber =  3185187;
 const int ChannelField = 1; 
 const char * myWriteAPIKey = "W7D95Z86PH9T3ZD8";
 const int airValue = 4095; 
